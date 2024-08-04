@@ -1,7 +1,15 @@
 {
   "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+    "baseUrl": ".",
+    "checkJs": true,
+    "jsx": "preserve",
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    // "exclude": [
+    //   "node_modules"
+    // ]
   }
 }

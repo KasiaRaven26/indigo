@@ -9,11 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autocomplete": "^0.0.1",
+    "better-sqlite3": "^11.1.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "slugify": "^1.6.6",
+    "xss": "^1.0.15"
   },
   "devDependencies": {
+    "@types/node": "^22.1.0",
+    "@types/react-dom": "^18.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
   }
