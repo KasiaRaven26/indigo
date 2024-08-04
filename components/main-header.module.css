@@ -9,3 +9,10 @@
     align-items: center;
     justify-content: space-around;
   }
+
+  .heading {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 70%;
+  }
