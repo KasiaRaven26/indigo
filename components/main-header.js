@@ -31,6 +31,10 @@ export default function MainHeader() {
             </li>
           </ul>
         </nav>
+        <div>
+          <h1>GUIDING VISIONS, MANAGING REALITIIES</h1>
+          <h1>YOUR PARTNER IN DEVELOPMENT, CONSULTING, AND MANAGEMENT</h1>
+        </div>
       </header>
     </>
   );
